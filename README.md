@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React, scikitlearn, spacy**
 
-- 💬 Ask me about **Backend and exploratory data analysis**
-
 - 📫 How to reach me **tanish_shah@sfu.ca**
 
 - ⚡ Fun fact **I have watched over 150 anime series.**
