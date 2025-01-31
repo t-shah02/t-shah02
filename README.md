@@ -1,13 +1,12 @@
 <h1 align="center">Hello World 👋, I'm Tanish</h1>
 <h3 align="center">A software engineer passionate about Big Data and Full Stack Web Development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=t-shah02&label=Profile%20views&color=0e75b6&style=flat" alt="t-shah02" /> </p>
 
-- 🔭 I’m currently working on [Dexbooru](https://github.com/t-shah02/dexbooru)
+- 🔭 I’m currently working on [Dexbooru](https://github.com/Dexbooru/dexbooru-web) and [Mochi](https://github.com/t-shah02/mochi)
 
-- 🌱 I’m currently learning **React, scikitlearn, spacy**
+- 🌱 I’m currently learning **Terraform and Pytorch**
 
-- 📫 How to reach me **tanish_shah@sfu.ca**
+- 📫 How to reach me **connecttanish@gmail.com**
 
 - ⚡ Fun fact **I have watched over 150 anime series.**
 
