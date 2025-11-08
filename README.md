@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Dexbooru](https://github.com/Dexbooru/dexbooru-web) and [Mochi](https://github.com/t-shah02/mochi)
 
-- 🌱 I’m currently learning **Terraform and Pytorch**
+- 🌱 I’m currently learning **Terraform**, **Snowflake** and **Golang**
 
 - 📫 How to reach me **connecttanish@gmail.com**
 
